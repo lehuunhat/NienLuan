@@ -1,0 +1,6 @@
+@HienTangToc_HostAddress = http://localhost:8080
+
+GET {{HienTangToc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

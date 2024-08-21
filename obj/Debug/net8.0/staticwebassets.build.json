@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "x3Gg6G7RoM5tbdZrARlQnxOQ9pdYdekbWAyoy7p/dtE=",
+  "Source": "HienTangToc",
+  "BasePath": "_content/HienTangToc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HienTangToc\\wwwroot",
+      "Source": "HienTangToc",
+      "ContentRoot": "C:\\Users\\huunh\\source\\repos\\webapi-net\\HienTangToc\\wwwroot\\",
+      "BasePath": "_content/HienTangToc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
